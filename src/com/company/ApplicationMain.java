@@ -8,7 +8,7 @@ public class ApplicationMain {
         TestClass.Print99();
         TestClass.PrintHer();
         TestClass.Print99(8);
-         TestClass.PrintHer();
+        //TestClass.PrintHer();
 
 
         System.out.println("5+6="+TestClass.Add(5,6));
